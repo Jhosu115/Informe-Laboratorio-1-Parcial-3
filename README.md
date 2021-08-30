@@ -169,37 +169,37 @@ Para 100 Hz
 
 Para 500 Hz
 
-![image](
+[![Whats-App-Image-2021-08-30-at-7-26-35-AM.jpg](https://i.postimg.cc/d0F29H6Z/Whats-App-Image-2021-08-30-at-7-26-35-AM.jpg)](https://postimg.cc/3kL08ZP3)
 
 Para 1000 Hz
 
-![image](
+[![Whats-App-Image-2021-08-30-at-7-27-21-AM.jpg](https://i.postimg.cc/9MnwsJdp/Whats-App-Image-2021-08-30-at-7-27-21-AM.jpg)](https://postimg.cc/CBbKqC6B)
 
 **b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
 Para 0 Hz
 
-![image](
+[![Whats-App-Image-2021-08-30-at-7-27-55-AM.jpg](https://i.postimg.cc/PxPQLLKS/Whats-App-Image-2021-08-30-at-7-27-55-AM.jpg)](https://postimg.cc/njfDghym)
 
 Para 10 Hz
 
-![image](
+[![Whats-App-Image-2021-08-30-at-7-28-15-AM.jpg](https://i.postimg.cc/R03WKc5J/Whats-App-Image-2021-08-30-at-7-28-15-AM.jpg)](https://postimg.cc/hJB4qQGK)
 
 Para 50 Hz
 
-![image](
+[![Whats-App-Image-2021-08-30-at-7-28-42-AM.jpg](https://i.postimg.cc/rF8zQ62k/Whats-App-Image-2021-08-30-at-7-28-42-AM.jpg)](https://postimg.cc/3WcKxcwS)
 
 Para 100 Hz
 
-![image](
+[![Whats-App-Image-2021-08-30-at-7-29-06-AM.jpg](https://i.postimg.cc/5yp4Z0WM/Whats-App-Image-2021-08-30-at-7-29-06-AM.jpg)](https://postimg.cc/vxgwnGmP)
 
 Para 500 Hz
 
-![image](
+[![Whats-App-Image-2021-08-30-at-7-29-33-AM.jpg](https://i.postimg.cc/LXpm5fHp/Whats-App-Image-2021-08-30-at-7-29-33-AM.jpg)](https://postimg.cc/kVf0h261)
 
 Para 1000 Hz
 
-![image](
+[![Whats-App-Image-2021-08-30-at-7-30-00-AM.jpg](https://i.postimg.cc/43Cg2tH9/Whats-App-Image-2021-08-30-at-7-30-00-AM.jpg)](https://postimg.cc/jDhmLDXx)
 
 **c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
