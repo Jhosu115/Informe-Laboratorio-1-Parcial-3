@@ -75,7 +75,7 @@ Para 0 Hz
 
 Para 10 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/image.png)
 
 Para 50 Hz
 
