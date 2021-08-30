@@ -65,7 +65,7 @@ Asmilar los nuevos materiales introducioendolos en un simulador utilizando los d
 **4.5 PROCEDIMIENTO**
 **1.- Construya en el protoboard el circuito mostrado en la Figura 1.**
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/imagen_2021-08-30_070143.png)
 
 **a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
 
