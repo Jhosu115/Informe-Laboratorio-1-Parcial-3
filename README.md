@@ -112,3 +112,5 @@ frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 # 7 BIBLIOGRAFÍAS
 
 ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. (s.f.). Obtenido de https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_07.htm
+
+}Francisco, J. (s. f.). Valores de una onda o señal alterna (senoidal) | Departamento de Electricidad-Electrónica. Departamento de Electricidad-Electrónica. Recuperado 29 de agosto de 2021, de https://cifpn1.com/electronica/?p=4113
