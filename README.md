@@ -212,6 +212,8 @@ Es decir que el voltaje o corriente que indica la disipación de calor con equiv
 
 # 5 VIDEO 
 
+https://youtu.be/RdgA-Ltu5I8
+
 # 6 CONCLUSIONES 
 
 -	El módulo implementado en el simulador Multisim, se pueda simular el comportamiento de las ondas de voltajes o ya sea de señales en las diferentes configuraciones de circuitos que se analiza en dicho caso.
