@@ -71,7 +71,7 @@ Asmilar los nuevos materiales introducioendolos en un simulador utilizando los d
 
 Para 0 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/image.png)
 
 Para 10 Hz
 
