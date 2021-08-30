@@ -40,7 +40,7 @@ Asmilar los nuevos materiales introducioendolos en un simulador utilizando los d
   
 ![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/png%20(1).png)
   
-![image]( 
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/png%20(2).png)
   
 </div>
 
