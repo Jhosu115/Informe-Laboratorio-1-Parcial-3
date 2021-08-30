@@ -65,36 +65,159 @@ Asmilar los nuevos materiales introducioendolos en un simulador utilizando los d
 **4.5 PROCEDIMIENTO**
 **1.- Construya en el protoboard el circuito mostrado en la Figura 1.**
 
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/image.png)
+
 **a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
+
+Para 0 Hz
+
+
+Para 10 Hz
+
+
+
+Para 50 Hz
+
+
+
+Para 100 Hz
+
+
+
+Para 500 Hz
+
+
+
+Para 1000 Hz
+
+
 
 **b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
+Para 0 Hz
+
+
+Para 10 Hz
+
+
+
+Para 50 Hz
+
+
+
+Para 100 Hz
+
+
+
+Para 500 Hz
+
+
+
+Para 1000 Hz
+
+
+
 **c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
+Para 0 Hz
 
 
-imegen 1
-
-
-
-**2.- Construya el circuito mostrado en la Figura 2**
+Para 10 Hz
 
 
 
-
-imagen 2
-
+Para 50 Hz
 
 
 
+Para 100 Hz
+
+
+
+Para 500 Hz
+
+
+
+Para 1000 Hz
+
+
+
+**2.- Construya el circuito mostrado en la Figura 2
 
 **a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
 
-**b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores
-de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+Para 0 Hz
 
-**c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la
-frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+Para 10 Hz
+
+
+
+Para 50 Hz
+
+
+
+Para 100 Hz
+
+
+
+Para 500 Hz
+
+
+
+Para 1000 Hz
+
+
+
+**b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+Para 0 Hz
+
+
+Para 10 Hz
+
+
+
+Para 50 Hz
+
+
+
+Para 100 Hz
+
+
+
+Para 500 Hz
+
+
+
+Para 1000 Hz
+
+
+
+**c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+
+Para 0 Hz
+
+
+Para 10 Hz
+
+
+
+Para 50 Hz
+
+
+
+Para 100 Hz
+
+
+
+Para 500 Hz
+
+
+
+Para 1000 Hz
+
+
 
 **4.6 Análisis de resultados**
 
