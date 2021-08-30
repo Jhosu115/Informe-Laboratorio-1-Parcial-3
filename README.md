@@ -93,7 +93,7 @@ Para 1000 Hz
 
 ![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.08.33%20AM.jpeg)
 
-**b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+**b. Utilice un multímetro para medir el voltaje y la corriente que atraviesa la resistencia, variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
 Para 0 Hz
 
@@ -119,31 +119,6 @@ Para 1000 Hz
 
 ![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.13.01%20AM.jpeg)
 
-**c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
-
-Para 0 Hz
-
-![image](
-
-Para 10 Hz
-
-![image](
-
-Para 50 Hz
-
-![image](
-
-Para 100 Hz
-
-![image](
-
-Para 500 Hz
-
-![image](
-
-Para 1000 Hz
-
-![image](
 
 **2.- Construya el circuito mostrado en la Figura 2
 
@@ -175,7 +150,7 @@ Para 1000 Hz
 
 [![Whats-App-Image-2021-08-30-at-7-27-21-AM.jpg](https://i.postimg.cc/9MnwsJdp/Whats-App-Image-2021-08-30-at-7-27-21-AM.jpg)](https://postimg.cc/CBbKqC6B)
 
-**b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
+**b. Utilice un multímetro para medir el voltaje y la corriente que atraviesa la resistencia, variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
 Para 0 Hz
 
@@ -200,32 +175,6 @@ Para 500 Hz
 Para 1000 Hz
 
 [![Whats-App-Image-2021-08-30-at-7-30-00-AM.jpg](https://i.postimg.cc/43Cg2tH9/Whats-App-Image-2021-08-30-at-7-30-00-AM.jpg)](https://postimg.cc/jDhmLDXx)
-
-**c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
-
-Para 0 Hz
-
-![image](
-
-Para 10 Hz
-
-![image](
-
-Para 50 Hz
-
-![image](
-
-Para 100 Hz
-
-![image](
-
-Para 500 Hz
-
-![image](
-
-Para 1000 Hz
-
-![image](
 
 **4.6 Análisis de resultados**
 
