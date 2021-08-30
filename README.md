@@ -39,6 +39,7 @@ Asmilar los nuevos materiales introducioendolos en un simulador utilizando los d
 <div align="center">
   
   
+  
 </div>
 
 # 3 MATERIAL Y EQUIPO REQUERIDO
