@@ -68,9 +68,22 @@ Asmilar los nuevos materiales introducioendolos en un simulador utilizando los d
 
 **c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
-<div align="center">
+
+
+imegen 1
+
+
 
 **2.- Construya el circuito mostrado en la Figura 2**
+
+
+
+
+imagen 2
+
+
+
+
 
 **a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
 
