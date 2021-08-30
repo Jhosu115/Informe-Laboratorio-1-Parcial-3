@@ -75,7 +75,7 @@ Para 0 Hz
 
 Para 10 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.03.33%20AM%20(1).jpeg)
 
 Para 50 Hz
 
