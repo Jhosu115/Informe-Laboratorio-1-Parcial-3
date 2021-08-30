@@ -91,7 +91,7 @@ Para 500 Hz
 
 Para 1000 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.08.33%20AM.jpeg)
 
 **b. Utilice un multímetro para medir el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
