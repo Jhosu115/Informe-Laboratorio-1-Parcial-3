@@ -4,8 +4,6 @@
 
 # UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
   
-  [![Whats-App-Image-2021-08-30-at-7-43-40-AM.jpg](https://i.postimg.cc/qv78zh1W/Whats-App-Image-2021-08-30-at-7-43-40-AM.jpg)](https://postimg.cc/xcWkZCDP)
-
 AUTORES
 
 * Alex Jhosue Aimacaña Cruz
