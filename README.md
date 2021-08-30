@@ -38,7 +38,9 @@ Asmilar los nuevos materiales introducioendolos en un simulador utilizando los d
 # 2 MARCO TEÓRICO
 <div align="center">
   
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/png%20(1).png)
   
+![image]( 
   
 </div>
 
