@@ -87,7 +87,7 @@ Para 100 Hz
 
 Para 500 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.07.44%20AM.jpeg)
 
 Para 1000 Hz
 
