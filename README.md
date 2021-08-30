@@ -119,6 +119,9 @@ Para 1000 Hz
 
 ![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.13.01%20AM.jpeg)
 
+### Tabla
+
+[![Whats-App-Image-2021-08-30-at-7-43-13-AM.jpg](https://i.postimg.cc/W105wJGz/Whats-App-Image-2021-08-30-at-7-43-13-AM.jpg)](https://postimg.cc/yDYhVxrC)
 
 **2.- Construya el circuito mostrado en la Figura 2
 
@@ -175,6 +178,10 @@ Para 500 Hz
 Para 1000 Hz
 
 [![Whats-App-Image-2021-08-30-at-7-30-00-AM.jpg](https://i.postimg.cc/43Cg2tH9/Whats-App-Image-2021-08-30-at-7-30-00-AM.jpg)](https://postimg.cc/jDhmLDXx)
+
+### Tabla
+
+[![Whats-App-Image-2021-08-30-at-7-43-28-AM.jpg](https://i.postimg.cc/xCBsPG4k/Whats-App-Image-2021-08-30-at-7-43-28-AM.jpg)](https://postimg.cc/k6FFJS99)
 
 **4.6 Análisis de resultados**
 
