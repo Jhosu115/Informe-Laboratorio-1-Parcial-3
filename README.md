@@ -97,27 +97,27 @@ Para 1000 Hz
 
 Para 0 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.09.29%20AM.jpeg)
 
 Para 10 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.10.42%20AM.jpeg)
 
 Para 50 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.11.23%20AM.jpeg)
 
 Para 100 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.11.53%20AM.jpeg)
 
 Para 500 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.12.27%20AM.jpeg)
 
 Para 1000 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.13.01%20AM.jpeg)
 
 **c. Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 . Anote los resultados.**
 
@@ -147,23 +147,25 @@ Para 1000 Hz
 
 **2.- Construya el circuito mostrado en la Figura 2
 
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.15.24%20AM.jpeg)
+
 **a. Utilice el osciloscopio para observar el voltaje  variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 . Anote los valores pico de las ondas observadas.**
 
 Para 0 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.16.22%20AM.jpeg)
 
 Para 10 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.17.00%20AM.jpeg)
 
 Para 50 Hz
 
-![image](
+![image](https://github.com/Jhosu115/Informe-Laboratorio-1-Parcial-3/blob/main/WhatsApp%20Image%202021-08-30%20at%207.17.31%20AM.jpeg)
 
 Para 100 Hz
 
-![image](
+([![Whats-App-Image-2021-08-30-at-7-18-06-AM.jpg](https://i.postimg.cc/2SkjFnv8/Whats-App-Image-2021-08-30-at-7-18-06-AM.jpg)](https://postimg.cc/nCWtnj06)
 
 Para 500 Hz
 
